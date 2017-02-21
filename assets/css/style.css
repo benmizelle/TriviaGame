@@ -1,0 +1,14 @@
+header{
+	background-image: url("../images/header-image.JPG");
+	text-align: center;
+	font-size: 85px;
+	color: #FF6600;
+	font-family: "Monoton", cursive;
+	margin: 15px;
+}
+
+body{
+	background-image: url("../images/background-image.JPG");
+	background-repeat: no-repeat;
+
+}
