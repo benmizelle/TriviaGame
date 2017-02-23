@@ -2,7 +2,7 @@ header{
 	background-image: url("../images/header-image.JPG");
 	text-align: center;
 	font-size: 85px;
-	color: #FF6600;
+	color: #FF0000;
 	font-family: "Monoton", cursive;
 	margin: 15px;
 }
@@ -10,11 +10,13 @@ header{
 body{
 	background-image: url("../images/background-image.JPG");
 	background-repeat: no-repeat;
-	
+	font-family: 'Allerta Stencil', sans-serif;
+	font-size: 20px;
+	color: #FF0000;
 }
 
 .startButton{
-	margin-left: 46%
+	margin-left: 43%
 }
 
 #display{
@@ -22,3 +24,10 @@ body{
 	font-size: 75px;
 
 }
+
+.quizArea{
+	text-align: center;
+	margin: 25px auto;
+
+}
+
