@@ -10,5 +10,15 @@ header{
 body{
 	background-image: url("../images/background-image.JPG");
 	background-repeat: no-repeat;
+	
+}
+
+.startButton{
+	margin-left: 46%
+}
+
+#display{
+	text-align: center;
+	font-size: 75px;
 
 }
