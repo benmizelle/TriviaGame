@@ -23,12 +23,6 @@ var quiz = [{
   "correct": 1
 }]
 
- for (var i = 0; i < choices.length; i++) {
-    choicesHtml += "<input type='radio' name='quiz" + currentQuestion +
-      "' id='choice" + (i + 1) +
-      "' value='" + choices[i] + "'>" +
-      " <label for='choice" + (i + 1) + "'>" + choices[i] + "</label><br>";
-  }
 
 
 
