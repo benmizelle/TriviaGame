@@ -23,6 +23,7 @@ var quiz = [{
   "correct": 1
 }]
 
+ $("#quizArea").html(quiz.quest)
 
 
 
